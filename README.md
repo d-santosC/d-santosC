@@ -31,8 +31,3 @@
 
 📧 d.santos.cafum@gmail.com
 LinkedIn: https://www.linkedin.com/in/daniela-cafum-197ba2328/
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-santosC&show_icons=true&theme=tokyonight)
