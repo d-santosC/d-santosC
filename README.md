@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Daniela
 
-🎓 Computer Engineering Student 
+🎓 Software Engineering Student 
 💻 Interested in Software Development & Problem Solving  
 🚀 Passionate about building intelligent and scalable systems
 ☕ Powered by coffee, sugar and deadlines
